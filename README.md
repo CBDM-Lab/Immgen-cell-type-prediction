@@ -12,3 +12,5 @@ Input:
 Output:
 - immgencelltype_proba: probability matrix for each single cell (in rows) to be of the Immgen cell types (in columns)
 - immgencelltype: vector with most likely Immgen cell type for each single cell
+
+Data file: https://www.dropbox.com/s/twxe2rssgii9sq4/ImmGen%20-%20Official%20%28April%202012%29%20-%20class%20means%20-%20No%20Plus%20or%20Minus%20Signs_uniq.txt?dl=0
